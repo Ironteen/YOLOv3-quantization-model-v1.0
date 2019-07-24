@@ -79,7 +79,7 @@ This repository is YOLOv3 quantization model vertion1.0, include  pretrain code 
 
 ## Acknowledgement
 
-1. YunYang1994/YOLO v3: https://github.com/YunYang1994/tensorflow-yolov
+1. YunYang1994/YOLO v3: https://github.com/YunYang1994/tensorflow-yolov3
 2. XJTUWYD/ShuffleDet: <https://github.com/XJTUWYD/ShuffleDet>
 3. BichenWuUCB/squeezeDet: <https://github.com/BichenWuUCB/squeezeDet>
 
